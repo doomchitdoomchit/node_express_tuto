@@ -1,0 +1,26 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomchitdoomchit/node_express_basic_practices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doomchitdoomchit/node_express_basic_practices/issues"
+  },
+  "homepage": "https://github.com/doomchitdoomchit/node_express_basic_practices#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
